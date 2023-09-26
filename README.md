@@ -15,3 +15,7 @@ A full-stack online library platform
 
 ## Starting
 * npm init -y
+* npm i express ejs express-ejs-layouts
+* npm i --save-dev nodemon
+* npm i mongoose
+* npm i --save-dev dotenv
